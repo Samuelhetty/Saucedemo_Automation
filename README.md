@@ -1,7 +1,7 @@
 # Swag Labs Cypress Test Suite
 
 This repository contains Cypress tests for the Swag Labs demo site (https://www.saucedemo.com).
-![LOGINPAGE] (assets/logpage.png)
+! [LOGINPAGE] (assets/logpage.png)
 
 ## Prerequisites
 
@@ -72,9 +72,9 @@ The test suite covers the following scenarios:
 
 ### Screenshots
 
-![RUNNER] (assets/runner.png)
+! [RUNNER] (assets/runner.png)
 
-![SCRIPTS-RAN] (assets/inventory.png)
+! [SCRIPTS-RAN] (assets/inventory.png)
 
 
 ## Testing Strategy
@@ -132,7 +132,7 @@ I've prioritized these areas as they represent the critical user journey and are
 4. More extensive negative testing scenarios
 5. End-to-end order placement and checkout process testing
 
-![LOGIN] (assets/logtest.png)
+! [LOGIN] (assets/logtest.png)
 
 This strategy provides a balanced approach to testing the Swag Labs demo site, ensuring core functionalities are verified while maintaining a manageable and quick-to-execute test suite. As the application evolves, the test suite can be expanded to cover more scenarios and edge cases.
 
