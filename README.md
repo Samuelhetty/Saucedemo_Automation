@@ -137,4 +137,4 @@ I've prioritized these areas as they represent the critical user journey and are
 This strategy provides a balanced approach to testing the Swag Labs demo site, ensuring core functionalities are verified while maintaining a manageable and quick-to-execute test suite. As the application evolves, the test suite can be expanded to cover more scenarios and edge cases.
 
 ## Authors
-- [Henrietta Onoge] (hetty8004@gmail.com)
+- [Henrietta Onoge](hetty8004@gmail.com)
