@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+
+# Cypress output and logs
+cypress/videos/
+cypress/screenshots/
+cypress/reports/
+cypress/logs/
+
+# Cypress configuration (if customized or environment-specific)
+cypress.config.js
+cypress.env.json
+
+# VSCode settings
+.vscode/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files (if used for sensitive information)
+.env
+.env.local
+.env.*.local
+
+# Coverage output (if using code coverage tools with Cypress)
+coverage/
